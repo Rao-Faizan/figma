@@ -39,13 +39,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -58,13 +58,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -76,13 +76,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -94,13 +94,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -136,13 +136,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -155,13 +155,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -173,13 +173,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -191,13 +191,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -226,13 +226,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -245,13 +245,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -263,13 +263,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>
@@ -281,13 +281,13 @@ export default function Home() {
        <div className="mb-4">
          <div className="flex items-center justify-between mb-2">
            <h2>Koenigsegg</h2>
-           <img src="/heart.png" alt="Heart" width={20} height={20} />
+           <Image src="/heart.png" alt="Heart" width={20} height={20} />
          </div>
          <p>Sport</p>
        </div>
      <div className="flex flex-col items-center gap-4 mb-4">
-         <img src="/car.png" alt="Car" width={220} height={68} />
-         <img src="/Spesification.png" alt="Specification" width={256} height={24} />
+         <Image src="/car.png" alt="Car" width={220} height={68} />
+         <Image src="/Spesification.png" alt="Specification" width={256} height={24} />
        </div>
        <div className="flex items-center justify-between">
         <p>$99.00/<span className="text-gray-500">day</span></p>

@@ -12,12 +12,12 @@ import Header from "@/components/header/page";
         
       </div>
       
-      <img src="/Details Rental (1).png" alt="" width={534} height={836} className="border-[1px] m-[32px]  "/> 
+      <Image src="/Details Rental (1).png" alt="" width={534} height={836} className="border-[1px] m-[32px]  "/> 
       <div>
-     <div className="mt-[32px] border-[1px]"> <img src="/Top 5 Car Rental (1).png" alt="" width={524} height={324}/></div>
+     <div className="mt-[32px] border-[1px]"> <Image src="/Top 5 Car Rental (1).png" alt="" width={524} height={324}/></div>
      
       
-     <div className="mt-[30px] border-[1px] ">  <img src="/Recent Transaction (1).png" alt="" width={524} height={480}/></div>
+     <div className="mt-[30px] border-[1px] ">  <Image src="/Recent Transaction (1).png" alt="" width={524} height={480}/></div>
         </div>
         
       </div>
