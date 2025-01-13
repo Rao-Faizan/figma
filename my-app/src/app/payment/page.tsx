@@ -46,7 +46,11 @@ export default function Page() {
             </div>
             <p>Please select your rental date</p>
             <div className="first">
-              <Image src={"/Pick - Up (1).png"} alt="Pick Up" width={92} height={20} />
+              {/* <Image src={"/Pick - Up (1).png"} alt="Pick Up" width={92} height={20} /> */}
+              <div className="flex items-center">
+    <input type="radio" className="w-5 h-5" checked />
+    <label className="text-lg font-semibold text-black ml-4">Pick - Up</label>
+  </div>
             </div>
             <div className="flex flex-wrap gap-4">
               <div className="w-full lg:w-[46%]">
